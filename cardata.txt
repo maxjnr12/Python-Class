@@ -1,0 +1,15 @@
+What is the average mileage for cars of each model?
+What is the average price for cars of each model?
+What is the average MSRP for cars of each model?
+What is the average year for cars of each model?
+What is the distribution of car statuses for each model?
+What is the average price for cars of different years?
+What is the average MSRP for cars of different years?
+What is the average mileage for cars of different years?
+What is the distribution of car prices for each model?
+What is the distribution of car MSRPs for each model?
+What is the average price for cars with a specific model name containing a certain string (e.g. "Toyota" in "Toyota Camry")?
+What is the average MSRP for cars with a specific model name containing a certain string?
+What is the average mileage for cars with a specific model name containing a certain string?
+What is the distribution of car statuses for cars with a specific model name containing a certain string?
+What is the distribution of car prices for cars with a specific model name containing a certain string and a specific year range?
